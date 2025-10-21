@@ -1,4 +1,4 @@
- # DEX Prototype - Uniswap V2 Clone
+ # DEX Prototype 
 
 A complete decentralized exchange (DEX) prototype implementing Uniswap V2 core functionality with automated market maker (AMM) capabilities.
 
